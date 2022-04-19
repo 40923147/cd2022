@@ -1,11 +1,4 @@
-<h1>About</h1>
-<p>cmsimde_site</p>
-<h1>W1</h1>
-<h1>midterm</h1>
-<h2>w8</h2>
-<p><span></span></p>
-<script>
-var winkVideoData = {
+﻿var winkVideoData = {
   dataVersion: 1,
   frameRate: 10,
   buttonFrameLength: 5,
@@ -47,13 +40,3 @@ var winkVideoData = {
     ],
   },
 };
-</script>
-<div class="winkVideoContainerClass"><video class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" height="600" width="900">
-loop="loop" muted="" playsinline=""autoplay="autoplay"&gt;
-<source src="./../downloads/19.mp4" type="video/mp4"/></video>
-<div class="winkVideoOverlayClass"></div>
-<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
-<div class="winkVideoControlBarProgressLeftClass"></div>
-</div>
-<div class="winkVideoPlayOverlayClass"></div>
-</div>
