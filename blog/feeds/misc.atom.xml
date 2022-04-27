@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CMSimfly 網際內容管理 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-04-20T11:00:00+08:00</updated><entry><title>2022 協同產品設計 W8</title><link href="./2022%20%E5%8D%94%E5%90%8C%E7%94%A2%E5%93%81%E8%A8%AD%E8%A8%88%20W8.html" rel="alternate"></link><published>2022-04-20T11:00:00+08:00</published><updated>2022-04-20T10:59:20+08:00</updated><author><name>Chang</name></author><id>tag:None,2022-04-20:./2022 協同產品設計 W8.html</id><content type="html"></content><category term="Misc"></category><category term="2022 協同產品設計 W8"></category></entry><entry><title>2022 Spring CD 課程</title><link href="./2022-Spring-CD.html" rel="alternate"></link><published>2022-03-29T11:00:00+08:00</published><updated>2022-04-20T09:56:18+08:00</updated><author><name>Chang</name></author><id>tag:None,2022-03-29:./2022-Spring-CD.html</id><summary type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CMSimfly 網際內容管理 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-04-27T11:44:10+08:00</updated><entry><title>40923147</title><link href="./w6_40923147.htm1.html" rel="alternate"></link><published>2022-04-20T11:00:00+08:00</published><updated>2022-04-27T11:44:10+08:00</updated><author><name>KMOL</name></author><id>tag:None,2022-04-20:./w6_40923147.htm1.html</id><summary type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
 
 
@@ -9,9 +9,8 @@
 &lt;p&gt;Python 可以用來控制 CoppeliaSim 與 Webots 虛擬環境中的機電系統&lt;/p&gt;
 &lt;p&gt;Python 可以用於機器學習 Keras, Pytorch&lt;/p&gt;
 &lt;h2&gt;Flutter&lt;/h2&gt;
-&lt;p&gt;Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps&lt;/p&gt;
-&lt;h2&gt;雲端空間&lt;/h2&gt;
-&lt;p&gt;原本 Google Drive 教育版可以存放不限空間的政策, 2022.07 即將失效, 屆時每一個帳號下只能至多儲存 3GB 的資料. 取而代之的是 MicroSoft 提供的教育版 OneDrive, 每一名使用者可以&lt;a href="https://nfucc.nfu.edu.tw/?p=19287"&gt;存放&lt;/a&gt;至多 5TB 容量的檔案.&lt;/p&gt;
-&lt;h2&gt;協同主題&lt;/h2&gt;
-&lt;p&gt;2022cd 課程的主題為 &lt;a href="https://www.youtube.com/watch?v=OqPVK__z9Ek"&gt;uArm&lt;/a&gt;, 我們希望各分組組員採用 &lt;a href="https://solvespace.com/"&gt;Solvespace&lt;/a&gt;、 以及 &lt;a href="https://www.onshape.com/en/"&gt;Onshape&lt;/a&gt; 設計繪製能夠用於 &lt;a href="https://mde.tw/cd2022_guide/content/Tic-Tat-Toe.html"&gt;Tic-Tat-Toe&lt;/a&gt; 遊戲的機械手臂.&lt;/p&gt;
-&lt;p&gt;從 &lt;a href="https://www.youtube.com/watch?v=OqPVK__z9Ek"&gt;uArm&lt;/a&gt; 中的影片與下載檔案、&lt;a href="http://download.ufactory.cc/docs/en/uArm%20Swift%20Pro_Developer%20Guide%20v1.0.6.pdf"&gt;uArm Developer Guide&lt;/a&gt;、&lt;a href="https://www.ufactory.cc/products/uarm-test-kit"&gt;uArm test kit&lt;/a&gt; 與 &lt;a href="https://www.ufactory.cc/pages/uarm"&gt;uFactory uArm&lt;/a&gt; 可以取得與 &lt;a href="https://www.youtube.com/watch?v=OqPVK__z9Ek"&gt;uArm&lt;/a&gt; 機械手臂相關的技術資料.&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry></feed>
+&lt;p&gt;Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps&lt;/p&gt;</content><category term="Misc"></category><category term="2022FallCP"></category></entry><entry><title>40923147</title><link href="./w7_summary.html.html" rel="alternate"></link><published>2022-03-29T11:00:00+08:00</published><updated>2022-04-27T11:44:10+08:00</updated><author><name>Chang</name></author><id>tag:None,2022-03-29:./w7_summary.html.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;1.如何集結各大組組員在各週所完成的工作進度? 各組員整理好進度像駔長報備後上傳&lt;/p&gt;
+&lt;p&gt;2.為何要在大組倉儲中建立 Reveal 投影片與 Pelican Blog? (git blame 用法) 使組員更能了解適用方法&lt;/p&gt;
+&lt;p&gt;3.可以利用 Leo Editor 延續開發 scarysim 程式功能嗎? (與 VScode 比較, 或者直接在 VScode 中使用 Leo Editor, leointeg) 因為是第一次接觸還在研究&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry></feed>
